@@ -1,0 +1,14 @@
+{
+    "id": "boost-note",
+    "name": "BoostNote",
+    "version": "1.0.0",
+    "description": "Boost Note",
+    "main": "index.js",
+    "author": "Jonte <me@jonte.com.au>",
+    "license": "MIT",
+    "config": {
+      "serviceURL": "https://note.boostio.co/",
+      "hasDirectMessages": false,
+      "hasNotificationSound": false
+    }
+  }

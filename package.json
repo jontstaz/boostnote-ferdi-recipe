@@ -7,7 +7,7 @@
     "author": "Jonte <me@jonte.com.au>",
     "license": "MIT",
     "config": {
-      "serviceURL": "https://note.boostio.co/",
+      "serviceURL": "https://note.boostio.co/app",
       "hasDirectMessages": false,
       "hasNotificationSound": false
     }
